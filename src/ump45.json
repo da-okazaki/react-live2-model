@@ -1,0 +1,27 @@
+{
+  "Version": "Sample 1.0.0",
+  "FileReferences": {
+    "Moc": "model.moc",
+    "Textures": ["model.1024/texture_00.png"],
+    "Motions": {
+      "Idle": [
+        { "file": "motions/login.mtn" },
+        { "file": "motions/shake.mtn" },
+        { "file": "motions/touch_1.mtn" },
+        { "file": "motions/touch_2.mtn" },
+        { "file": "motions/touch_3.mtn" },
+        { "file": "motions/touch_4.mtn" },
+        { "file": "motions/touch_5.mtn" },
+        { "file": "motions/wait_1.mtn" },
+        { "file": "motions/wait_2.mtn" },
+        { "file": "motions/wedding.mtn" },
+        { "file": "motions/wedding_touch.mtn" }
+      ]
+    },
+    "HitAreas": [
+      { "name": "head", "id": "D_REF_HEAD" },
+      { "name": "leg", "id": "D_REF_LEG" },
+      { "name": "body", "id": "D_REF_BODY" }
+    ]
+  }
+}
